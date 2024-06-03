@@ -1,5 +1,4 @@
 const { execSync } = require('child_process');
-const plop = require('plop');
 
 // Load your Plop configuration
 const plopfile = './plopfile.js'; // Adjust the path as needed
