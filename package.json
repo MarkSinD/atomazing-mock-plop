@@ -1,6 +1,6 @@
 {
 	"name": "@atomazing/mock-plop",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"type": "commonjs",
 	"license": "MIT",
 	"author": "whoisYeshua",
@@ -9,7 +9,7 @@
 		"url": "git+https://github.com/MarkSinD/atomazing-mock-plop.git"
 	},
 	"bin": {
-		"my-template": "./scripts/run-template.js"
+		"my-template": "run-template.js"
 	},
 	"bugs": {
 		"url": "https://github.com/MarkSinD/atomazing-mock-plop.git"
