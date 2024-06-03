@@ -1,7 +1,7 @@
 const path = require('path');
 
 // Assuming your plopfile.js is at the root of your project
-const projectBaseDir = __dirname;
+const projectBaseDir = process.cwd();
 
 module.exports = function (plop) {
 	plop.setGenerator('init mock packages', {
