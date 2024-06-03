@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const { execSync } = require('child_process');
-const plop = require('plop');
 
 // Extract arguments passed to your package
 const args = process.argv.slice(2);
