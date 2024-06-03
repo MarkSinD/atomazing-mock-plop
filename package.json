@@ -1,0 +1,31 @@
+{
+	"name": "@atomazing/mock-plop",
+	"version": "1.0.1",
+	"type": "commonjs",
+	"license": "MIT",
+	"author": "whoisYeshua",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MarkSinD/atomazing-mock-plop.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MarkSinD/atomazing-mock-plop.git"
+	},
+	"homepage": "https://github.com/MarkSinD/atomazing-mock-plop.git",
+	"keywords": [
+		"eslint",
+		"atomazing"
+	],
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"devDependencies": {
+		"plop": "^4.0.1"
+	},
+	"eslintIgnore": [
+		"node_modules",
+		"coverage",
+		"dist"
+	]
+}
